@@ -183,14 +183,14 @@ img {
 }
 
 .product-button-black {
-    color: black;
-    border-color: black;
+    color: 1e3932;
+    border-color: #1e3932;
 }
 
 .product-description {
     text-align: center;
     padding: 30px 60px 30px 60px;
-    font-size: 28px;
+    font-size: 22px;
     font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif ;
 }
 
