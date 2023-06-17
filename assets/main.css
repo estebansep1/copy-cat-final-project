@@ -119,6 +119,13 @@ img {
     display: flex;
 }
 
+.product-left{
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
 .product-left,
 .product-right {
     max-width: 50%;
@@ -130,17 +137,19 @@ img {
     align-content: stretch;
     flex-direction: column;
 }
-.product-title h1 , p {
+.product-title , h1 , p {
     margin: 0;
     font-weight: 500;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
-.product-title p {
-    text-align: center;
-    font-weight: 550;
-    margin-bottom: 32px;
-    font-size: 19px;
+.product-title , p {
+    font-size: 25px;
 }
+.product-title , h1{
+   font-size: 75px;
+}
+
 .product-title {
     font-size: 24px;
     letter-spacing: 1px;
@@ -181,7 +190,8 @@ img {
 .product-description {
     text-align: center;
     padding: 30px 60px 30px 60px;
-    font-size: 18px;
+    font-size: 28px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif ;
 }
 
 .footer {
