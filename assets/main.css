@@ -209,6 +209,7 @@ img {
     margin-right: 40px;
 }
 
-.product-button:hover {
-    transform: scale(1.2);
+.product-button:hover {  
+    background-color: rgba(0, 0, 0, 0.4);
+    
  }
