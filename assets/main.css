@@ -208,3 +208,7 @@ img {
     margin-left: 40px;
     margin-right: 40px;
 }
+
+.product-button:hover {
+    transform: scale(1.2);
+ }
