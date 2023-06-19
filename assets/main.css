@@ -43,8 +43,11 @@ p {
     margin-right: 20px;
 }
 
-.navbar-left{
+.navbar-left {
+    color: black;
+}
 
+.navbar-left{
   letter-spacing: 2px;
 }
 .navbar-left div {
@@ -261,6 +264,7 @@ box-sizing: inherit;
     height: auto;
     max-width: 1440px;
     display: flex;
+    margin-right: 0px;
     margin-bottom: 32px;
     margin-left: 0px;
     
