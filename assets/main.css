@@ -246,7 +246,7 @@ box-sizing: inherit;
  }
 
  footer{
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.575),0 2px 2px rgba(233, 226, 226, 0.404);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.207),0 2px 2px rgba(0, 0, 0, 0.207);
     padding: 24px 0;
     height: auto;
     max-width: 1440px;
