@@ -43,9 +43,6 @@ p {
     margin-right: 20px;
 }
 
-.navbar-left {
-    color: black;
-}
 
 .navbar-left{
   letter-spacing: 2px;
@@ -336,4 +333,8 @@ box-sizing: inherit;
 }
 .intro{
     font-size: 20px;
+}
+
+.navbar:hover {
+  color:#1e3932;
 }
